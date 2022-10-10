@@ -58,3 +58,8 @@ markdown_extensions:
       custom_checkbox: true
 extra:
   homepage: https://github.com/mmdjiji/eeg-learning
+
+nav:
+  - 简介: index.md
+  - EEGLAB:
+    - 安装: eeglab/installation.md
