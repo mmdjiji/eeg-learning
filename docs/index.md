@@ -16,3 +16,4 @@ EEG ([Electroencephalography](https://en.wikipedia.org/wiki/Electroencephalograp
 
 * [Public EEG Dataset on the Internet](https://github.com/hubandad/EEGDataset-on-The-Internet)
 * [EEG 公开数据集整理](https://baijiahao.baidu.com/s?id=1725333051729280477)
+* [AMIGOS dataset](https://www.eecs.qmul.ac.uk/mmv/datasets/amigos/)

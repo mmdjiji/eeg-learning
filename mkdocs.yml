@@ -63,3 +63,5 @@ nav:
   - 简介: index.md
   - EEGLAB:
     - 安装: eeglab/installation.md
+  - Papers:
+    - Tips: papers/tips.md
