@@ -10,3 +10,6 @@ Event-related Potential：事件相关电位
 
 ### [ECG/EKG](https://en.wikipedia.org/wiki/Electrocardiography)
 Electrocardiography：心电描记法
+
+### [fMRI](https://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging)
+Functional magnetic resonance imaging：功能磁共振成像

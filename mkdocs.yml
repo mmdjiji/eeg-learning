@@ -63,5 +63,8 @@ nav:
   - 简介: index.md
   - EEGLAB:
     - 安装: eeglab/installation.md
+  - 数据处理:
+    - 预处理: data-processing/preprocessing.md
   - Papers:
     - Tips: papers/tips.md
+
