@@ -65,6 +65,9 @@ nav:
     - 安装: eeglab/installation.md
   - 数据处理:
     - 预处理: data-processing/preprocessing.md
+    - 模拟原始数据: data-processing/mock.md
+    - 分类方法: data-processing/classification.md
   - Papers:
     - Tips: papers/tips.md
-
+  - Hardware:
+    - Introduction: hardware/introduction.md
