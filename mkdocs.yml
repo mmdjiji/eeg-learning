@@ -66,6 +66,7 @@ nav:
   - 数据处理:
     - 预处理: data-processing/preprocessing.md
     - 模拟原始数据: data-processing/mock.md
+    - DWT: data-processing/dwt.md
     - 分类方法: data-processing/classification.md
   - Papers:
     - Tips: papers/tips.md
