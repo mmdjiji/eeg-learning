@@ -63,6 +63,8 @@ nav:
   - 简介: index.md
   - EEGLAB:
     - 安装: eeglab/installation.md
+  - 数据采集:
+    - 工作流: data-collecting/workflows.md
   - 数据处理:
     - 预处理: data-processing/preprocessing.md
     - 模拟原始数据: data-processing/mock.md
